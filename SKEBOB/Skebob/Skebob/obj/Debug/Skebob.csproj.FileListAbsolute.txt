@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\COPTimur\ISRPO\SKEBOB\Skebob\Skebob\obj\Debug\Skebob.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\COPTimur\ISRPO\SKEBOB\Skebob\Skebob\obj\Debug\Skebob.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\COPTimur\ISRPO\SKEBOB\Skebob\Skebob\obj\Debug\Skebob.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\COPTimur\ISRPO\SKEBOB\Skebob\Skebob\bin\Debug\Skebob.exe.config
+C:\Users\Student\Desktop\COPTimur\ISRPO\SKEBOB\Skebob\Skebob\bin\Debug\Skebob.exe
+C:\Users\Student\Desktop\COPTimur\ISRPO\SKEBOB\Skebob\Skebob\bin\Debug\Skebob.pdb
+C:\Users\Student\Desktop\COPTimur\ISRPO\SKEBOB\Skebob\Skebob\obj\Debug\Skebob.exe
+C:\Users\Student\Desktop\COPTimur\ISRPO\SKEBOB\Skebob\Skebob\obj\Debug\Skebob.pdb
