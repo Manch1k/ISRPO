@@ -1,0 +1,8 @@
+C:\Users\Sudent\Desktop\8.11\8.11\bin\Debug\8.11.exe.config
+C:\Users\Sudent\Desktop\8.11\8.11\bin\Debug\8.11.exe
+C:\Users\Sudent\Desktop\8.11\8.11\bin\Debug\8.11.pdb
+C:\Users\Sudent\Desktop\8.11\8.11\obj\Debug\8.11.csproj.AssemblyReference.cache
+C:\Users\Sudent\Desktop\8.11\8.11\obj\Debug\8.11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sudent\Desktop\8.11\8.11\obj\Debug\8.11.csproj.CoreCompileInputs.cache
+C:\Users\Sudent\Desktop\8.11\8.11\obj\Debug\8.11.exe
+C:\Users\Sudent\Desktop\8.11\8.11\obj\Debug\8.11.pdb

@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Страница — 1" id="SOKiRHJwqbpBKrZyZ88e">
+    <mxGraphModel dx="1639" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="399" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="VVYr3cDAlKBTbECDUK9s-1" parent="1" target="VVYr3cDAlKBTbECDUK9s-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="399" y="840" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-5" value="Ввод количества строк" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="VVYr3cDAlKBTbECDUK9s-5" parent="1" target="VVYr3cDAlKBTbECDUK9s-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-7" value="Ввод количества столбцов" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="VVYr3cDAlKBTbECDUK9s-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-9" value="Ввод переменных" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="VVYr3cDAlKBTbECDUK9s-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-11" value="Определение строки с наибольшим количеством положительных элементов" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="500" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VVYr3cDAlKBTbECDUK9s-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="640" as="targetPoint" />
+            <mxPoint x="470" y="540" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-14" value="Вывод матрицы" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="VVYr3cDAlKBTbECDUK9s-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-16" value="Есть положительные значения?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="334" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-17" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="VVYr3cDAlKBTbECDUK9s-16" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="550" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-18" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="VVYr3cDAlKBTbECDUK9s-16" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="414" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-19" value="Вывод строки с наибольшим количеством положительных элементов и их количество" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="327" y="740" width="174" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="VVYr3cDAlKBTbECDUK9s-19" parent="1" target="VVYr3cDAlKBTbECDUK9s-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-21" value="Вывод &quot;В матрице нет положительных значений&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VVYr3cDAlKBTbECDUK9s-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VVYr3cDAlKBTbECDUK9s-21" target="VVYr3cDAlKBTbECDUK9s-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="832" as="targetPoint" />
+            <mxPoint x="640" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
